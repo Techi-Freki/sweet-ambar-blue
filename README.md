@@ -1,10 +1,7 @@
 # sweet-ambar-blue
 Modified sweet ambar blue theme
 
-![](Art/Sweet-theme.png)
-
-
-#### Installation
+## Installation
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/` or `~/.themes/` (create it if necessary).
 
